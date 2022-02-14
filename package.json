@@ -1,0 +1,15 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "this is a developer team REST api for mobile server",
+  "main": "index.js",
+  "scripts": {
+    "ananda" : "json-server --watch db.json --port 5050"
+  },
+
+  "author": "ananda",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
